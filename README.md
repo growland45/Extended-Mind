@@ -25,10 +25,19 @@ It's written in Perl and Tk. I may rewrite in Python some day. I just started in
 
 Usage notes:
 
-For safety, items, notes nd relationships can't be deleted unless completely cleared first.
+For safety, items, notes and relationships can't be deleted unless completely cleared first.
 
 Relationship types have these classes:
 
 A - action
 M - membership
 P - passive (nonaction, not membership)
+
+![Screenshot](/screenshots/action.screenshot.jpg?raw=true)
+![Screenshot](/screenshots/edit.scanned.site.screenshot.jpg?raw=true)
+![Screenshot](/screenshots/item.main.screenshot.jpg?raw=true)
+![Screenshot](/screenshots/item.notes.screenshot.jpg?raw=true)
+![Screenshot](/screenshots/peruses.screenshot.jpg?raw=true)
+![Screenshot](/screenshots/ponder.screenshot.jpg?raw=true)
+![Screenshot](/screenshots/relate.screenshot.jpg?raw=true)
+![Screenshot](/screenshots/scanned.site.screenshot.jpg?raw=true)
