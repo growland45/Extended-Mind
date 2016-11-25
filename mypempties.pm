@@ -1,7 +1,7 @@
 package mypempties;
 use Tk;
 use myf::f;  use myf::fitem;  use myf::fsecentry;
-use mylib::g;  use mytk::tabpane;
+use mytk::g;  use mytk::tabpane;
 @ISA = ('tabpane');
 
 sub btext { my ($self)=@_;
