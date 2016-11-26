@@ -85,7 +85,7 @@ sub f_search {  my ($list, $pattern, $max)= @_;
   _search_fetch($list, $sth, $max);
 }
 
-$ob= 'order by importance, title';
+$ob= 'order by -importance, title';
 $sf= 'ikey, type, id, title, importance';
 
 sub f_questions {  my ($list, $max)= @_;
